@@ -57,8 +57,8 @@ function send(message) {
 //******
  
 var loginPage = document.querySelector('#loginPage'); 
-var usernameInput = document.querySelector('#usernameInput'); 
-var loginBtn = document.querySelector('#loginBtn'); 
+var usernameInput = document.querySelector('#broadcast-name'); 
+var loginBtn = document.querySelector('#setup-new-broadcast'); 
 
 var callPage = document.querySelector('#callPage'); 
 var callToUsernameInput = document.querySelector('#callToUsernameInput');
